@@ -1,0 +1,16 @@
+[
+	{
+		"imagem":"https://farm9.staticflickr.com/8644/16517781789_6ed90c5678.jpg",
+		"titulo":"Novidade 1",
+		"descricao":"Nullam ac purus et est maximus rhoncus. Proin vitae euismod ligula, eu semper dolor. Nulla molestie viverra magna, id laoreet tortor.",
+		"conteudo":"Proin viverra dolor id magna facilisis, in tincidunt risus consequat. Donec accumsan ligula est, nec elementum tortor ornare eu. Nunc in scelerisque leo, id interdum nunc. Praesent congue sapien at erat gravida pharetra quis non sapien. Quisque pulvinar feugiat velit. Ut commodo tortor vitae ex maximus, ac dapibus sem blandit. Fusce ut mollis felis. Nulla posuere ligula tortor, vel suscipit tortor semper in. Vestibulum at ultrices erat, ac ultrices massa. Phasellus vel ligula eu mi blandit efficitur id ac eros. Etiam non ex cursus, ultrices diam a, scelerisque turpis.",
+		"data":"05/01/2018"
+	},
+	{
+		"imagem":"https://vignette.wikia.nocookie.net/esim/images/b/b1/ViperV4_500x500.jpg",
+		"titulo":"",
+		"descricao":"Vestibulum risus felis, imperdiet convallis nunc a, molestie iaculis dui. Nulla facilisi. Aliquam elementum sit amet arcu efficitur laoreet.",
+		"conteudo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut arcu elit. Sed suscipit molestie nisi ac molestie. Curabitur mi mi, suscipit sit amet mi sit amet, dictum lacinia mi. Nulla in felis lacus. Aenean tincidunt odio eu magna sollicitudin sagittis. Nam viverra vulputate orci, vitae porttitor nisl posuere nec. Suspendisse tellus libero, malesuada sit amet felis id, suscipit aliquam dui.",
+		"data":"06/01/2018"
+	}
+]
