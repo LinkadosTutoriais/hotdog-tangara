@@ -1,0 +1,131 @@
+[
+	{
+		"nome":"Hot Dog Tradicional",
+		"valor":"3.00",
+		"descricao":"O mais vendido de todos, e muito saboroso.",
+		"ingredientes":"Carne moída, salsicha, milho e ervilha, vinagrete e batata palha",
+		"recheios":"",
+		"frutas":"",
+		"coberturas":"",
+		"disponibilidade":"SIM",
+		"imagem1":"",
+		"imagem2":""
+	},
+
+	{
+		"nome":"Hot Dog Frango",
+		"valor":"3.50",
+		"descricao":"Gosta de frango? Então prove essa delícia.",
+		"ingredientes":"Carne moída, salsicha, milho e ervilha, vinagrete e batata palha, frango desfiado e catupiry",
+		"recheios":"",
+		"frutas":"",
+		"coberturas":"",
+		"disponibilidade":"SIM",
+		"imagem1":"",
+		"imagem2":""
+	},
+
+	{
+		"nome":"Hot Dog Bacon",
+		"valor":"3.50",
+		"descricao":"Bacon... uma delícia...",
+		"ingredientes":"Carne moída, salsicha, milho e ervilha, vinagrete e batata palha, bacon e cheddar",
+		"recheios":"",
+		"frutas":"",
+		"coberturas":"",
+		"disponibilidade":"SIM",
+		"imagem1":"",
+		"imagem2":""
+	},
+
+	{
+		"nome":"Hot Dog Misto",
+		"valor":"4.50",
+		"descricao":"Uma explosão de sabores na sua boca.",
+		"ingredientes":"Carne moída, salsicha, milho e ervilha, vinagrete e batata palha, frango desfiado, bacon, catupiry e cheddar",
+		"recheios":"",
+		"frutas":"",
+		"coberturas":"",
+		"disponibilidade":"SIM",
+		"imagem1":"",
+		"imagem2":""
+	},
+
+	{
+		"nome":"Hot Dog Calabresa",
+		"valor":"4.00",
+		"descricao":"Uma mordida e você vai ficar viciado.",
+		"ingredientes":"Carne moída, salsicha, milho e ervilha, vinagrete e batata palha, calabresa e cheddar",
+		"recheios":"",
+		"frutas":"",
+		"coberturas":"",
+		"disponibilidade":"SIM",
+		"imagem1":"",
+		"imagem2":""
+	},
+
+	{
+		"nome":"Hot Dog Nordestino",
+		"valor":"4.00",
+		"descricao":"O sabor nordestino na sua boca.",
+		"ingredientes":"Carne moída, salsicha, milho e ervilha, vinagrete e batata palha, carne de sol, ovo de codorna e cheddar",
+		"recheios":"",
+		"frutas":"",
+		"coberturas":"",
+		"disponibilidade":"SIM",
+		"imagem1":"",
+		"imagem2":""
+	},
+
+	{
+		"nome":"Hot Dog MEGA",
+		"valor":"5.00",
+		"descricao":"Tudo junto e misturado.",
+		"ingredientes":"Carne moída, salsicha, milho e ervilha, vinagrete e batata palha, frango desfiado, bacon, calabresa, catupiry e cheddar",
+		"recheios":"",
+		"frutas":"",
+		"coberturas":"",
+		"disponibilidade":"SIM",
+		"imagem1":"",
+		"imagem2":""
+	},
+
+	{
+		"nome":"Açai 250ml",
+		"valor":"6.00",
+		"descricao":"",
+		"ingredientes":"",
+		"recheios":"Paçoca, marshmallow, mini ball, ovomaltine, farinha láctea, leite em pó, granola, passa tempo, tubinhos, bis, cereais matinal, nescau cereal, jujuba, amendoim confeitado, confete, coco ralado, granulado, baton",
+		"frutas":"Banana, morango, uva, maça",
+		"coberturas":"Chocolate, morango, caramelo, uva, leite condensado",
+		"disponibilidade":"SIM",
+		"imagem1":"",
+		"imagem2":""
+	},
+
+	{
+		"nome":"Açai 350ml",
+		"valor":"8.50",
+		"descricao":"Açai com 350ml para matar sua sede.",
+		"ingredientes":"",
+		"recheios":"Paçoca, marshmallow, mini ball, ovomaltine, farinha láctea, leite em pó, granola, passa tempo, tubinhos, bis, cereais matinal, nescau cereal, jujuba, amendoim confeitado, confete, coco ralado, granulado, baton",
+		"frutas":"Banana, morango, uva, maça",
+		"coberturas":"Chocolate, morango, caramelo, uva, leite condensado",
+		"disponibilidade":"SIM",
+		"imagem1":"",
+		"imagem2":""
+	},
+
+	{
+		"nome":"Açai 500ml",
+		"valor":"11.00",
+		"descricao":"Para você que é viciado em açai.",
+		"ingredientes":"",
+		"recheios":"Paçoca, marshmallow, mini ball, ovomaltine, farinha láctea, leite em pó, granola, passa tempo, tubinhos, bis, cereais matinal, nescau cereal, jujuba, amendoim confeitado, confete, coco ralado, granulado, baton",
+		"frutas":"Banana, morango, uva, maça",
+		"coberturas":"Chocolate, morango, caramelo, uva, leite condensado",
+		"disponibilidade":"SIM",
+		"imagem1":"",
+		"imagem2":""
+	},
+]
