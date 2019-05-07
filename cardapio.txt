@@ -127,5 +127,5 @@
 		"disponibilidade":"SIM",
 		"imagem1":"",
 		"imagem2":""
-	},
+	}
 ]
