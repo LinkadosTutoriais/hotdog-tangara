@@ -1,0 +1,29 @@
+[
+	{
+		"img":"https://www.logolynx.com/images/logolynx/ca/caf3414583eb6790c2eaa0340b8afbd7.jpeg",
+		"titulo":"Combo Simples",
+		"descricao":"Tradicional + Batata frita + refrigerante",
+		"valor":"R$8.00"
+	},
+
+	{
+		"img":"https://indiapropertyjournal.com/wp-content/uploads/2017/01/20130726104253-512X512.jpg",
+		"titulo":"Combo Frango",
+		"descricao":"Frango + Batata frita + refrigerante",
+		"valor":"R$9.00"
+	},
+
+	{
+		"img":"http://www.fundep.ufmg.br/wp-content/uploads/2017/06/cropped-apple-touch-icon-512x512-1.png",
+		"titulo":"Combo Multi",
+		"descricao":"Tradicional + Frango + Batata frita + refrigerante",
+		"valor":"R$10.00"
+	},
+
+	{
+		"img":"https://www.logolynx.com/images/logolynx/ca/caf3414583eb6790c2eaa0340b8afbd7.jpeg",
+		"titulo":"Combo Mega",
+		"descricao":"Tradicional + Calabresa + Batata frita + refrigerante",
+		"valor":"R$11.00"
+	}
+]
