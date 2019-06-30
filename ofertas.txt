@@ -1,0 +1,26 @@
+[
+	{
+		"img":"https://pajulahti.com/wp-content/uploads/2017/04/500x500.jpeg",
+		"img2":"",
+		"titulo":"HOT DOG TRADICIONAL",
+		"descricao":"SABOROSO E BARATO, COMBINAÇÃO PERFEITA",
+		"valor":"3.00",
+		"disponibilidade":"SIM"
+	{
+		"img":"https://pajulahti.com/wp-content/uploads/2017/04/500x500.jpeg",
+		"img2":"",
+		"titulo":"HOT DOG FRANGO",
+		"descricao":"FRANGO COM CATUPIRY, IRRESISTIVEL",
+		"valor":"3.00",
+		"disponibilidade":"SIM"
+	},
+
+	{
+		"img":"https://pajulahti.com/wp-content/uploads/2017/04/500x500.jpeg",
+		"img2":"",
+		"titulo":"AÇAÍ 350ML",
+		"descricao":"350ML DE PURO AÇAI PARA MATAR A SUA SEDE",
+		"valor":"6.50",
+		"disponibilidade":"SIM"
+	}
+]

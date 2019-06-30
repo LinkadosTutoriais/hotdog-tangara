@@ -1,0 +1,31 @@
+[
+	{
+		"img":"https://betaeq.com.br/wp-content/uploads/2017/10/IMG-20171001-WA0017-600x300.jpg",
+		"img2":"",
+		"titulo":"COMBO X2",
+		"descicao":"HOT DOG TRADICIONAL + BAT. FRITA + REFRI. 300ML",
+		"valor":"8.00",
+		"nota":"",
+		"disponibilidade":"SIM"
+	},
+
+	{
+		"img":"https://betaeq.com.br/wp-content/uploads/2017/10/IMG-20171001-WA0017-600x300.jpg",
+		"img2":"",
+		"titulo":"AÇAÍ DUPLO",
+		"descicao":"AÇAÍ 250ML +AÇAÍ 350ML",
+		"valor":"9.00",
+		"nota":"",
+		"disponibilidade":"SIM"
+	},
+
+	{
+		"img":"https://betaeq.com.br/wp-content/uploads/2017/10/IMG-20171001-WA0017-600x300.jpg",
+		"img2":"",
+		"titulo":"COMBO SALGADOS",
+		"descicao":"7 SALGADOS VARIADOS + REFRI. 1L",
+		"valor":"9.50",
+		"nota":"",
+		"disponibilidade":"SIM"
+	}
+]
