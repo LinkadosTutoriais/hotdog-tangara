@@ -5,7 +5,8 @@
 		"ingredientes":"Você leva 3 ítens por apenas R$8.00. 1 Hot Dog Tradicional + 1 porção de batatas fritas + 1 refrigerante mini pet ou latinha de 300ml.",
 		"titulo":"Combo Simples",
 		"descricao":"Tradicional + Batata frita + refrigerante",
-		"valor":"R$8.00"
+		"valor":"R$8.00",
+		"categoria":"hotdog"
 	},
 
 	{
@@ -14,7 +15,8 @@
 		"ingredientes":"Leve 1 Hot Dog de Frango + 1 porção de batatas fritas + 1 refrigerante mini pet ou latinha de 300ml.",
 		"titulo":"Combo Frango",
 		"descricao":"Frango + Batata frita + refrigerante",
-		"valor":"R$9.00"
+		"valor":"R$9.00",
+		"categoria":""
 	},
 
 	{
@@ -23,7 +25,8 @@
 		"ingredientes":"1 Hot Dog tradicional + 1 Hot Dog de frango + 1 porção de batatas fritas + 1 refrigerante mini per ou latinha de 300ml.",
 		"titulo":"Combo Multi",
 		"descricao":"Tradicional + Frango + Batata frita + refrigerante",
-		"valor":"R$10.00"
+		"valor":"R$10.00",
+		"categoria":""
 	},
 
 	{
@@ -32,6 +35,7 @@
 		"ingredientes":"1 Hot Dog tradicional + 1 Hot Dog de calabresa + 1 porção de batatas fritas + 1 refrigerante mini pet ou latinha de 300ml.",
 		"titulo":"Combo Mega",
 		"descricao":"Tradicional + Calabresa + Batata frita + refrigerante",
-		"valor":"R$11.00"
+		"valor":"R$11.00",
+		"categoria":""
 	}
 ]
