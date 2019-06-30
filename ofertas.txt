@@ -6,6 +6,8 @@
 		"descricao":"SABOROSO E BARATO, COMBINAÇÃO PERFEITA",
 		"valor":"3.00",
 		"disponibilidade":"SIM"
+	},
+	
 	{
 		"img":"https://pajulahti.com/wp-content/uploads/2017/04/500x500.jpeg",
 		"img2":"",
