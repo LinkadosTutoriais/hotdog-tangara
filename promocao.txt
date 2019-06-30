@@ -2,7 +2,7 @@
 	{
 		"titulo":"P R O M O Ç Ã O",
 		"descricao":"LEVE MAIS PAGANDO MENOS. VOCÊ COMPRA 3 OU MAIS LANCHES E GANHE UM DESCONTO ESPECIAL.",
-		"arquivo":""
+		"arquivo":"",
 		"disponibilidade":"SIM"
 	}
 ]
