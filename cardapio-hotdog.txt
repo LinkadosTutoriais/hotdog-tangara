@@ -4,9 +4,9 @@
 		"img2":"https://media.daysoftheyear.com/20171223110023/hot-dog-day2.jpg",
 		"ingredientes":"Você leva 3 ítens por apenas R$8.00. 1 Hot Dog Tradicional + 1 porção de batatas fritas + 1 refrigerante mini pet ou latinha de 300ml.",
 		"titulo":"Combo Simples",
-		"descricao":"Tradicional + Batata frita + refrigerante",
-		"valor":"R$8.00",
-		"categoria":"combos"
+		"descricao":"HOT DOG TRADICIONAL",
+		"valor":"R$3.00",
+		"categoria":"hotdog"
 	},
 
 	{
@@ -14,8 +14,8 @@
 		"img2":"https://article.images.consumerreports.org/prod/content/dam/CRO%20Images%202018/Health/July/CR-Health-InlineHero-Healthy-HotDogs-07-18",
 		"ingredientes":"Leve 1 Hot Dog de Frango + 1 porção de batatas fritas + 1 refrigerante mini pet ou latinha de 300ml.",
 		"titulo":"Combo Frango",
-		"descricao":"Frango + Batata frita + refrigerante",
-		"valor":"R$9.00",
+		"descricao":"HOT DOG FRANGO",
+		"valor":"R$3.50",
 		"categoria":""
 	},
 
@@ -24,8 +24,8 @@
 		"img2":"https://www.vvsupremo.com/wp-content/uploads/2016/02/900X570_Mexican-Style-Hot-Dogs.jpg",
 		"ingredientes":"1 Hot Dog tradicional + 1 Hot Dog de frango + 1 porção de batatas fritas + 1 refrigerante mini per ou latinha de 300ml.",
 		"titulo":"Combo Multi",
-		"descricao":"Tradicional + Frango + Batata frita + refrigerante",
-		"valor":"R$10.00",
+		"descricao":"HOT DOG MISTO",
+		"valor":"R$3.50",
 		"categoria":""
 	},
 
@@ -34,8 +34,8 @@
 		"img2":"https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555427805/shape/mentalfloss/istock_000042054604_small.jpg",
 		"ingredientes":"1 Hot Dog tradicional + 1 Hot Dog de calabresa + 1 porção de batatas fritas + 1 refrigerante mini pet ou latinha de 300ml.",
 		"titulo":"Combo Mega",
-		"descricao":"Tradicional + Calabresa + Batata frita + refrigerante",
-		"valor":"R$11.00",
+		"descricao":"HOT DOG BACON",
+		"valor":"R$4.00",
 		"categoria":""
 	}
 ]
