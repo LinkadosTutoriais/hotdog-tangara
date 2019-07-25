@@ -1,31 +1,37 @@
 [
 	{
-		"img":"https://betaeq.com.br/wp-content/uploads/2017/10/IMG-20171001-WA0017-600x300.jpg",
-		"img2":"",
-		"titulo":"COMBO X2",
-		"descricao":"HOT DOG TRADICIONAL + BAT. FRITA + REFRI. 300ML",
-		"valor":"8.00",
-		"nota":"",
-		"disponibilidade":"SIM"
+		"img":"https://img.elo7.com.br/product/zoom/26CC4E9/painel-adesivo-hot-dog-cachorro-quente-salada-adesivo-decorativo-comida.jpg",
+		"titulo":"Combo 01",
+		"descricao_breve":"Fusce pharetra convallis sapien, eget faucibus leo mollis ac.",
+		"descricao_completa":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum volutpat felis eget erat elementum, in volutpat mauris rhoncus. Donec nec eleifend purus, et ornare mauris.",
+		"valor":"R$8.00",
+		"disponibilidade":"sim"
 	},
 
 	{
-		"img":"https://betaeq.com.br/wp-content/uploads/2017/10/IMG-20171001-WA0017-600x300.jpg",
-		"img2":"",
-		"titulo":"AÇAÍ DUPLO",
-		"descricao":"AÇAÍ 250ML +AÇAÍ 350ML",
-		"valor":"9.00",
-		"nota":"",
-		"disponibilidade":"SIM"
+		"img":"https://img.elo7.com.br/product/zoom/26CC4E9/painel-adesivo-hot-dog-cachorro-quente-salada-adesivo-decorativo-comida.jpg",
+		"titulo":"Combo 02",
+		"descricao_breve":"Quisque in justo non nibh mattis bibendum vitae sed orci.",
+		"descricao_completa":"Proin lectus ipsum, dapibus in tortor eu, ullamcorper consectetur nisi. Duis eleifend sodales sapien condimentum iaculis.",
+		"valor":"R$9.50",
+		"disponibilidade":"sim"
 	},
 
 	{
-		"img":"https://betaeq.com.br/wp-content/uploads/2017/10/IMG-20171001-WA0017-600x300.jpg",
-		"img2":"",
-		"titulo":"COMBO SALGADOS",
-		"descricao":"7 SALGADOS VARIADOS + REFRI. 1L",
-		"valor":"9.50",
-		"nota":"",
-		"disponibilidade":"SIM"
+		"img":"https://img.elo7.com.br/product/zoom/26CC4E9/painel-adesivo-hot-dog-cachorro-quente-salada-adesivo-decorativo-comida.jpg",
+		"titulo":"Combo 03",
+		"descricao_breve":"Suspendisse sit amet ex aliquam, auctor tellus eget, tempus enim.",
+		"descricao_completa":"Nam sit amet suscipit neque. Cras rhoncus consequat leo fermentum cursus. Nam pretium nulla vel odio bibendum, aliquam dapibus elit porttitor. Vivamus et dapibus quam.",
+		"valor":"R$10.00",
+		"disponibilidade":"sim"
+	},
+
+	{
+		"img":"https://img.elo7.com.br/product/zoom/26CC4E9/painel-adesivo-hot-dog-cachorro-quente-salada-adesivo-decorativo-comida.jpg",
+		"titulo":"Combo 04",
+		"descricao_breve":"Nullam tincidunt dolor felis, quis efficitur magna feugiat eu.",
+		"descricao_completa":"In blandit augue eu nibh tincidunt, in tincidunt felis volutpat. Vivamus dignissim mauris eu ante feugiat, a sodales lorem aliquet. Aliquam ac massa sed leo consectetur mollis.",
+		"valor":"R$12.00",
+		"disponibilidade":"sim"
 	}
 ]
